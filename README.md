@@ -7,6 +7,7 @@
 - [Key Insights](#key-insights)
 - [Reommendations](#recommendations)
 - [Limitations](#limitations)
+- [Files](#files)
   
 ## Project Objectives
 The analysis addresses the following objectives:
@@ -58,11 +59,11 @@ The analysis addresses the following objectives:
 - **14,393 invoices (about 9%) are unpaid.** Outstanding balances follow customer size (Enterprise $22M, Business $13M, Team $8M, Starter $4M).
 
 ## Recommendations
-1. **Review pricing and packaging.** Price is the most expensive churn reason and the most negative one.
-2. **Fix the support experience.** Cancellations are few but equally unhappy.
-3. **Run retention programmes across the whole lifetime**, not just onboarding.
-4. **Prioritise larger accounts** for acquisition, since value per account scales with company size.
-5. **Chase past-due accounts early** to protect $1.86M of MRR.
+- **Review pricing and packaging.** Price is the most expensive churn reason and the most negative one.
+- **Fix the support experience.** Cancellations are few but equally unhappy.
+- **Run retention programmes across the whole lifetime**, not just onboarding.
+- **Prioritise larger accounts** for acquisition, since value per account scales with company size.
+- **Chase past-due accounts early** to protect $1.86M of MRR.
 
 ## Limitations
 - Invoices are dated at random within each subscription's life, so they support collections analysis only, not month-by-month revenue.
