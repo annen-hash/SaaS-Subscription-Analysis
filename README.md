@@ -9,16 +9,18 @@
 - [Limitations](#limitations)
 - [Files](#files)
   
+## Project Overview
+
+## Technologies & Skills
+- **Technologies**: SQL (MySQL), MySQL Workbench, Python (pandas, matplotlib), Power BI, DAX
+- **Skills**: Data modeling, database development, data wrangling, data cleaning, data analysis, data visualization/dashboarding
+
 ## Project Objectives
 The analysis addresses the following objectives:
 + Calculating and customer churn
 + Calculating revenue
 + Analyzing and Identifying factors that affect customer churn
 + Delivering actionable recommendations to the company stakeholders
-
-## Technologies & Skills
-- **Technologies**: SQL (MySQL), MySQL Workbench, Python (pandas, matplotlib), Power BI, DAX
-- **Skills**: Data modeling, database development, data wrangling, data cleaning, data analysis, data visualization/dashboarding
 
 ## Process
 1. Python: loaded 6 CSVs, ran integrity checks (MRR = seats x price, churn
@@ -28,7 +30,6 @@ The analysis addresses the following objectives:
 4. Power BI: 5-page dashboard (Summary, Overview, Churn, Customers, Collections).
 
 ## Key Insights
-
 ### 1. Revenue
 - **Live MRR is $39.28M** across 12,687 live subscriptions (active + past due), an average of $3.74K per account.
 - **Enterprise plans generate about 46% of MRR** ($17.9M of $39.3M). Monthly plans out-earn annual plans in every tier.
