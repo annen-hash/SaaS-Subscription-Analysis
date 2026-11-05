@@ -17,11 +17,11 @@
 
 ## Project Objectives
 The analysis addresses the following objectives:
-+ Calculating Churn rate by tier
-+ Calculating Current MRR by plan and Average revenue per account by company size
-+ Analyzing why customers leave, and how do they feel about it
-+ Calculating new subscriptions and cancellations per quarter
-+ Delivering actionable recommendations to the company stakeholders
++ Calculating Churn rate by tier.
++ Calculating Current MRR by plan and Average revenue per account by company size.
++ Analyzing why customers leave, and how do they feel about it.
++ Calculating new subscriptions and cancellations per quarter.
++ Delivering actionable recommendations to the company stakeholders.
 
 ## Process
 1. Python: loaded 6 CSVs, ran integrity checks (MRR = seats x price, churn
