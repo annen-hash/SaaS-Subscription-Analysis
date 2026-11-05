@@ -10,7 +10,7 @@
 - [Files](#files)
   
 ## Project Overview
-This document provides an analysis of key performance data for a business-software company from January 2023 to 30 September 2026. Metrics reviewed include monthly recurring revenue (MRR), customer sign up cohorts and churn rate across different plans, tiers, company size, and year.This dataset, sourced from Kaggle, a widely recognized platform offering copyright-free datasets, contains a six tables covering the full subscription business: the price list, customer accounts and their users, subscriptions with monthly recurring revenue, invoices and churn events. The analysis was conducted using MySQL, Python and Power BI.
+This document provides an analysis of key performance data for a business-software company from January 2023 to 30 September 2026. Metrics reviewed include monthly recurring revenue (MRR), customer sign up cohorts and churn rate across different plans, tiers, company size, and year. This dataset, sourced from Kaggle, a widely recognized platform offering copyright-free datasets, contains a six tables covering the full subscription business: the price list, customer accounts and their users, subscriptions with monthly recurring revenue, invoices and churn events. The dataset can assessed through:https://www.kaggle.com/datasets/generaterealdata/synthetic-saas-subscriptions-churn?select=users.csv
 
 ## Technologies & Skills
 - **Technologies**: SQL (MySQL), MySQL Workbench, Python (pandas, matplotlib), Power BI, DAX
