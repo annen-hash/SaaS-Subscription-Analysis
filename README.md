@@ -36,7 +36,7 @@ The analysis addresses the following objectives:
 - **Live MRR is $39.28M** across 12,687 live subscriptions (active + past due), an average of $3.74K per account.
 - **Enterprise plans generate about 46% of MRR** ($17.9M of $39.3M). Monthly plans out-earn annual plans in every tier.
 - **$1.86M of MRR (4.7%) is past due.** These customers haven't cancelled, so this is revenue to recover through collections.
-- New subscriptions grow every quarter, from a handful in early 2023 to about 2,500 in 2026-Q3. Cancellations grow far more slowly, so the base is expanding.
+- New subscriptions grow every quarter, from a handful in early 2023 to about 2,492 in 2026-Q3. Cancellations grow far more slowly, so the base is expanding.
 
 ### 2. Churn
 - **15.4% of all subscriptions have cancelled** (2,313 of 15,000), costing **$7.52M in MRR**.
