@@ -17,9 +17,10 @@
 
 ## Project Objectives
 The analysis addresses the following objectives:
-+ Calculating and customer churn
-+ Calculating revenue
-+ Analyzing and Identifying factors that affect customer churn
++ Calculating Churn rate by tier
++ Calculating Current MRR by plan and Average revenue per account by company size
++ Analyzing why customers leave, and how do they feel about it
++ Calculating new subscriptions and cancellations per quarter
 + Delivering actionable recommendations to the company stakeholders
 
 ## Process
