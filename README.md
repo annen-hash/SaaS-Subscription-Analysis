@@ -1,8 +1,8 @@
 # SaaS Subscription Analytics
 ## **Table of Contents** <br>
 - [Project Overview](#project-overview) <br>
-- [Technology and Skills](#technology--skills)
-- [Project Objectives](#project-objetives)
+- [Technologies and Skills](#technologies--skills)
+- [Project Objectives](#project-objectives)
 - [Process](#process)
 - [Key Insights](#key-insights)
 - [Reommendations](#recommendations)
