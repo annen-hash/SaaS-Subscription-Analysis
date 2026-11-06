@@ -75,4 +75,6 @@ The analysis addresses the following objectives:
 ## Files
 - sql/ - schema and views
 - python/ - load_to_mysql.py, churn_analysis.py, explore.py
-- powerbi/ - screenshots of dashboard pages
+- powerbi/ - dashboard (.pbix) and PDF export
+- screenshots/ - dashboard pages
+
