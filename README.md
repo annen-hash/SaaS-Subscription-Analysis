@@ -1,4 +1,4 @@
-# SaaS Subscription Analytics
+# SaaS Subscription Analysis
 ## **Table of Contents** <br>
 - [Project Overview](#project-overview) <br>
 - [Technologies and Skills](#technologies--skills)
